@@ -1,0 +1,59 @@
+div#root {
+  background-color: #0d0e0f;
+}
+
+h1 {
+  color: aquamarine;
+}
+
+
+button {
+  background-color: #33219b;
+  width: 150px;
+  margin-bottom: 5px;
+  font-size: larger;
+  /* display: table-row-group; */
+}
+
+.App1 {
+  text-align: center;
+  min-height: 100vh;
+  max-width: 25vw;
+  margin-left: 5vw;
+  display: inline-block;
+}
+
+.App2 {
+  text-align: center;
+  min-height: 100vh;
+  max-width: 25vw;
+  margin-left: 5vw;
+  display: inline-block;
+}
+
+.App3 {
+  text-align: center;
+  min-height: 100vh;
+  max-width: 25vw;
+  margin-left: 5vw;
+  display: inline-block;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 60vh;
+  /* display: flex; */
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(1px + 20vmin);
+  color: white;
+}
+
+.App-body {
+  color: white;
+}
+
+.App-button {
+  color: #61dafb;
+}
